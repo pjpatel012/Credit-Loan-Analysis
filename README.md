@@ -6,7 +6,7 @@ Explore and analyze key trends and relationships from an online credit loan comp
 This project focus' primarily on exploratory and explanatory data analysis, visualization, and reporting of the dataset in RStudio (R-Markdown). 3 primary files are included in this project:
 * R Markdown file ('ProsperLoan.rmd')  
 * pdf of the final report ('ProsperLoan.pdf).  
-* csv of the prosper loan data (prosperLoanData.csv)
+* csv of the prosper loan data (prosperLoanData.csv) (Link Below)
 
 ## Prerequisites 
 
@@ -25,7 +25,9 @@ As part of the analysis, the following libraries are utilized in this project:
 
 ## Additional Data
 
-Please note that the data used in this project is comprised of 8 years of data from Prosper Loan. This dataframe consists of over 113,000 rows and 81 columns.
+Please note that the data used in this project is comprised of 8 years of data from Prosper Loan. This dataframe consists of over 113,000 rows and 81 columns. Since the prosperLoanData.csv is 100+ mb, a link is provided below to download the dataset. Please make sure all files are located in the same working directory before running.
+
+https://docs.google.com/document/d/1qEcwltBMlRYZT-l699-71TzInWfk4W9q5rTCSvDVMpc/pub
 
 ## Authors
 
