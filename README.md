@@ -3,7 +3,7 @@ Explore and analyze key trends and relationships from an online credit loan comp
 
 ## Assignment Background
 
-This project focus' primarily on the exploratory and explanatory data analysis, visualization, and reporting in RStudio (R-Markdown). 3 primary files are included in this project:
+This project focus' primarily on exploratory and explanatory data analysis, visualization, and reporting of the dataset in RStudio (R-Markdown). 3 primary files are included in this project:
 * R Markdown file ('ProsperLoan.rmd')  
 * pdf of the final report ('ProsperLoan.pdf).  
 * csv of the prosper loan data (prosperloan.csv)
